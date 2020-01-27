@@ -6,7 +6,7 @@ The underlying library behind quantopian https://www.quantopian.com
 https://github.com/quantopian/zipline
 
 The notebook StrategySelectionWithCosts.ipynb evaluatates several EMA based momentum strategies, incorporating cost data. 
-The notebook MomentumSlowVolAdj.ipynb looks at one particular momentum based strategy. 
+The notebook MomentumFastVolAdj.ipynb looks at one particular momentum based strategy. 
 
 # Dependencies
 
